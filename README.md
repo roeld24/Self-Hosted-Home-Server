@@ -70,6 +70,9 @@ Example:
 sudo apt update && sudo apt upgrade -y
 ```
 
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/6b21a27a-9a93-4a97-8ff7-9d8ba1cb6042" />
+
+
 ---
 
 # 3. CasaOS
@@ -81,6 +84,9 @@ CasaOS provides a graphical interface for managing the server, applications, sto
 CasaOS does not replace Docker. Instead, it operates on top of the existing Docker infrastructure and provides a convenient interface for deploying and managing applications.
 
 This was particularly useful during the initial setup because the system consisted of several independent services that needed to be deployed and configured.
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/399e7cc0-11f5-44e3-a5c9-09bd3c6d5808" />
+
 
 ---
 
@@ -198,6 +204,9 @@ Dedicated directories were used to keep different download categories separated:
 ```
 
 This makes it easier for Sonarr and Radarr to identify and import completed downloads.
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/ded1c6ce-1dae-4958-b609-1dab485badb6" />
+
 
 ---
 
